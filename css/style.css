@@ -1,0 +1,10 @@
+h1{
+    color: #333;
+    font-size: 2.5em;
+    text-align: center;
+    margin-top: 20px;
+}
+
+input:checked{
+    accent-color: yellow;
+}

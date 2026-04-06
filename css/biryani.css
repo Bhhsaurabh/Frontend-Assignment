@@ -1,0 +1,12 @@
+#biryani>li{
+    color: orange;
+}
+#jet>li{
+    color: orange;
+}
+#lassi>li{
+    color: green;
+}
+#lassi ul>li{
+    color: brown;
+}
